@@ -1,0 +1,32 @@
+
+
+h1 {color: Black;
+  text-align: center;
+ font-size: 50pt;
+  }
+
+.title {
+  width: 800px;
+  margin: auto;
+
+}
+
+
+
+body {
+	border-radius: 0px;
+	background-color: #edf5f7 ;
+
+}
+
+p {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+
+
+}
+
+footer{
+align-content: center;
+
+}
